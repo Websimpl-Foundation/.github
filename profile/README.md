@@ -2,4 +2,8 @@
 
 Website: [Websimpl Foundation](https://websimpl.in/auth)
 
-Description: Websimpl Foundation is a organization that aims to provide software as a service. Websimpl Foundation is a part of Websimpl, a software development company.
+Websimpl is a community interested in exploring the creation of art and design with technology.
+
+We are a community of, and in solidarity with, people from every gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, disability, class, religion, culture, subculture, political opinion, age, skill level, occupation, and background. We acknowledge that not everyone has the time, financial means, or capacity to actively participate, but we recognize and encourage involvement of all kinds. We facilitate and foster access and empowerment. We are all learners.
+
+Go through the [CODE OF CONDUCT](https://github.com/Websimpl-Foundation/.github/blob/main/CODE_OF_CONDUCT.md) and [CONTRIBUTING](https://github.com/Websimpl-Foundation/.github/blob/main/Contributing.md) guidelines before contributing to the repository.
