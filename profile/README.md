@@ -17,10 +17,13 @@ By leveraging the power of open-source, we aim to democratize technology, making
 
 Welcome to Oxiton Foundation, where together, we code for change.
 
+![Socials](https://github.com/oxiton-foundation/.github/assets/94161758/46f577f7-4f8b-4d17-b8ae-9200d37b4887)
+
 ## Our Socials:
 
 - [Discord](https://discord.gg/DHdye5hJ)
 - [GitHub](https://github.com/oxiton-foundation)
+- [Dev](https://dev.to/oxiton_foundation)
 - [Instagram](https://www.instagram.com/oxitonfoundation)
 
 Go through the [CODE OF CONDUCT](https://github.com/oxiton-foundation/.github/blob/main/CODE_OF_CONDUCT.md) and [CONTRIBUTING](https://github.com/oxiton-foundation/.github/blob/main/Contributing.md) guidelines before contributing to the repository.
