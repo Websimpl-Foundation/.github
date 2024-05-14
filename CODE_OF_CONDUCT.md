@@ -1,7 +1,7 @@
 
-## [Websimpl community statement](https://websimpl.in)
+## [Oxiton community statement](https://websimpl.in)
 
-Websimpl is a community interested in exploring the creation of art and design with technology.
+Oxiton is a community interested in exploring the creation of art and design with technology.
 
 We are a community of, and in solidarity with, people from every gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, disability, class, religion, culture, subculture, political opinion, age, skill level, occupation, and background. We acknowledge that not everyone has the time, financial means, or capacity to actively participate, but we recognize and encourage involvement of all kinds. We facilitate and foster access and empowerment. We are all learners.
 
@@ -27,7 +27,7 @@ In the future:
 * The future is now.
 
 
-## Websimpl Code of Conduct
+## Oxiton Code of Conduct
 
 * **Be mindful of your language.** Any of the following behavior is unacceptable: 
   * Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, or background
