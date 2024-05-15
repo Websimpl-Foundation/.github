@@ -25,5 +25,6 @@ Welcome to Oxiton Foundation, where together, we code for change.
 - [GitHub](https://github.com/oxiton-foundation)
 - [Dev](https://dev.to/oxiton_foundation)
 - [Instagram](https://www.instagram.com/oxitonfoundation)
+- [LinkedIn](https://www.linkedin.com/company/oxiton-foundation)
 
 Go through the [CODE OF CONDUCT](https://github.com/oxiton-foundation/.github/blob/main/CODE_OF_CONDUCT.md) and [CONTRIBUTING](https://github.com/oxiton-foundation/.github/blob/main/Contributing.md) guidelines before contributing to the repository.
